@@ -1,0 +1,26 @@
+
+          Lucas              Marble Cake      GBP3.2.00       x10       GBP  32.00
+          Lucas                    Donut      GBP0.9.00       x2       GBP 1.8.00
+          Lucas       Chocolate Mug Cake      GBP  2.00       x1       GBP   2.00
+                                                                       ___________GBP35.8.00
+
+          Harry                  Cookies      GBP0.8.00       x1       GBP 0.8.00
+          Harry              Marble Cake      GBP3.2.00       x20       GBP  64.00
+          Harry       Chocolate Mug Cake      GBP  2.00       x2       GBP   4.00
+          Harry                 Cup Cake      GBP1.1.00       x30       GBP  33.00
+          Harry         Pudding Parfaits      GBP2.1.00       x1       GBP 2.1.00
+                                                                       ___________GBP103.9.00
+
+         potter             Suasages Bun      GBP0.7.00       x5       GBP 3.5.00
+         potter                    Bread      GBP1.4.00       x7       GBP 9.8.00
+         potter                     Pies      GBP  1.00       x10       GBP  10.00
+         potter                   Muffin      GBP0.8.00       x3       GBP 2.4.00
+                                                                       ___________GBP25.7.00
+
+          Cimon              Sweet Rolls      GBP1.5.00       x12       GBP  18.00
+          Cimon                   Muffin      GBP0.8.00       x14       GBP11.2.00
+          Cimon                  Cookies      GBP0.8.00       x12       GBP 9.6.00
+          Cimon           Cinnomon Rolls      GBP1.5.00       x21       GBP31.5.00
+          Cimon                    Smack      GBP1.1.00       x10       GBP  11.00
+                                                                       ___________GBP81.3.00
+
